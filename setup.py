@@ -9,7 +9,7 @@ setuptools.setup(
     version="0.0.1",
     author="Izan Majeed",
     author_email='izanmajeed03@gmail.com',
-    url='https://github.com/izan-majeed/',
+    url='https://github.com/izan-majeed/Asma-ul-Husna-Pypi',
     description="Get all the 99 names of Allah",
     long_description=long_description,
     long_description_content_type="text/markdown",
