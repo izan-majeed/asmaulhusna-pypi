@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-AsmaUlHusna/AsmaulHusna.py
-AsmaUlHusna/__init__.py
-AsmaUlHusna.egg-info/PKG-INFO
-AsmaUlHusna.egg-info/SOURCES.txt
-AsmaUlHusna.egg-info/dependency_links.txt
-AsmaUlHusna.egg-info/top_level.txt

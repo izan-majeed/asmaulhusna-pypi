@@ -74,3 +74,11 @@ class AsmaUlHusna:
             ''')
         except Exception as e:
             print(e)
+
+    @classmethod
+    def get_nth_name(cls, n):
+        assert n in range(1, 100), "Index range is from 1 to 99"
+        try:
+            return [cls.name[n-1], cls.meaning[n-1], cls.arabic[n-1]]
+        except Exception as e:
+            return e
